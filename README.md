@@ -1,0 +1,2 @@
+# spinnmo-loihi
+stupid bitbucket
